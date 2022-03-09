@@ -1,4 +1,4 @@
-class Test 
+class Test
     def initialize
         puts "I love you"
         derp
