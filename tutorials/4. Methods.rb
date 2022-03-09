@@ -1,6 +1,7 @@
 class Test 
     def initialize
         puts "I love you"
+        derp
         derp()
     end
     def derp
